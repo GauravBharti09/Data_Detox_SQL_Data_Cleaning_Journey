@@ -1,5 +1,5 @@
 # Data_Detox_SQL_Data_Cleaning_Journey
-
+![Word_Cloud](https://github.com/GauravBharti09/Data_Detox_SQL_Data_Cleaning_Journey/blob/main/Word_Cloud.jpeg)
 ### Objective
 To clean and standardize a dataset containing information about company layoffs, ensuring accurate and complete data for further analysis. The project focused on addressing null values, blanks, duplicates, and irrelevant rows and columns.
 
